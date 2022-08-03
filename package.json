@@ -1,0 +1,35 @@
+{
+  "name": "boardroom",
+  "version": "1.0.0",
+  "description": "<h1> Boardroom  </h1>",
+  "main": "server.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kagusev/boardroom.git"
+  },
+  "author": "kagusev.dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kagusev/boardroom/issues"
+  },
+  "homepage": "https://github.com/kagusev/boardroom#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "mongo": "^0.1.0",
+    "mongodb": "^4.8.1",
+    "mongoose": "^6.5.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
