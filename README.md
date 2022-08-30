@@ -13,6 +13,7 @@ All data hardcoded into corresponding files and output into console
  - keep track on money spend or estimated value each board or collection in total
  - add/remove boards 
  - separate sections/flags for boards that available for sell/trade
+ - users authentication 
 
 
 ## Usage: 
